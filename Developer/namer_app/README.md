@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+A new Flutter project. This is my first project done in Flutter using Google's Codelab.
 
 ## Getting Started
 
